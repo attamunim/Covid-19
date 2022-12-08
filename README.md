@@ -1,7 +1,7 @@
 # covid19
 
 A new Flutter project.
- # covid19
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
